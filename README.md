@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @suue99
-- 👀 I’m interested in web dev.
+- 👋 Hi, I’m Suue
+- Aspiring Front-End Developer 🌟 | Web Development Student 📚 | Crafting digital experiences, one line of code at a time 💻 | Passionate about creating user-friendly, visually appealing web interfaces 🎨 | Learning and growing with every commit 🚀
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
